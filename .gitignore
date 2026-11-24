@@ -1,0 +1,4 @@
+# Archivos originales de los modelos 3D (el cartel solo usa los .glb)
+3D/*.zip
+3D/*/source/
+3D/*/textures/
